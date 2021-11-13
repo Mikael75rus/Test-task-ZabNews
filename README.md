@@ -1,2 +1,0 @@
-# ZabNews
-Test Task
